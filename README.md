@@ -21,9 +21,11 @@ I uploaded these codes to demostrate the following abilities:
 * Strong programming skills in Python and familiarity with python libraries like numpy, scikit-learn, pandas etc.
 
 
-## Getting Started
+# Technologies
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+# Setup
 
 ### Prerequisites
 
