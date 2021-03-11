@@ -2,7 +2,6 @@
 
 ## Table of contents
 * [General info](#general-info)
-* [Technologies](#technologies)
 * [Setup](#setup)
 
 
@@ -20,10 +19,6 @@ I uploaded these codes to demostrate the following abilities:
 * Experience with deep neural network architectures and software frameworks like TensorFlow.
 * Strong programming skills in Python and familiarity with python libraries like numpy, scikit-learn, pandas etc.
 
-
-# Technologies
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 # Setup
 
