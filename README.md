@@ -6,6 +6,13 @@ In this mini-project, I attempt to apply different machine learning models to au
 
 I also apply a convolutional neural network model (Tensorflow/Keras) to classify overlapping 2 s windows of EEG time series. Although, deep-learning was not necessary in this problem, its use was just for didactic purposes.
 
+I uploaded these codes to demostrate the following abilities:
+
+* Excellent understanding of Machine Learning/Deep Learning, methodologies for clinical outcomes research
+* Strong understanding of signal processing concepts (Filtering, Fourier, and Wavelet transforms).
+* Experience with deep neural network architectures and software frameworks like TensorFlow.
+* Strong programming skills in Python and familiarity with python libraries like numpy, scikit-learn, pandas etc.
+
 
 ## Getting Started
 
@@ -21,4 +28,10 @@ Give examples
 
 ## Authors
 
-* **David Fox** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **David Fox** - *Initial work* - [PurpleBooth](https://github.com/davidfox87)
+
+
+
+
+
+
